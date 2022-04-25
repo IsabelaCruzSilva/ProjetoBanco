@@ -8,30 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\IFSP\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\bella\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\SP3045072\\ProjetoBanco\\ProjetoBanco.csproj",
+      "projectUniqueName": "C:\\Users\\bella\\OneDrive\\Documents\\escola\\2022\\LP3\\ProjetoBanco\\ProjetoBanco\\ProjetoBanco.csproj",
       "projectName": "ProjetoBanco",
-      "projectPath": "C:\\Users\\IFSP\\Desktop\\SP3045072\\ProjetoBanco\\ProjetoBanco.csproj",
-      "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IFSP\\Desktop\\SP3045072\\ProjetoBanco\\obj\\",
+      "projectPath": "C:\\Users\\bella\\OneDrive\\Documents\\escola\\2022\\LP3\\ProjetoBanco\\ProjetoBanco\\ProjetoBanco.csproj",
+      "packagesPath": "C:\\Users\\bella\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bella\\OneDrive\\Documents\\escola\\2022\\LP3\\ProjetoBanco\\ProjetoBanco\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\bella\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

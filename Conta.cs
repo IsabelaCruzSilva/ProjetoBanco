@@ -34,7 +34,7 @@ class Conta
 
     private void ValidarValor (double valor) 
     {
-        if (valor <=0.0)
+        if (valor <= 0.0)
          throw new ArgumentException ("O valor deve ser maior que zero."); 
     }
 
